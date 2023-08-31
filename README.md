@@ -1,6 +1,6 @@
 # Nikita-Lajkoski-practice-portfolio
 This will be a place for me to create my practice portfolio. 
-# Nikita lAJKOSKI practice portfolio readme file 
+# Nikita Lajkoski practice portfolio: ABOUT ME  
 
 ## About me 
 I have always loved technology and I have decided to folow my passion and take a leap into the world of I.T. 
